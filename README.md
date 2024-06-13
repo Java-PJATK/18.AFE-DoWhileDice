@@ -1,6 +1,6 @@
 # 19.AFE-DoWhileDice
 
-Suppose now that the user enters numbers until he/she enters zero; we want to find the sum of all these numbers and the number of them:
+Now, let's assume the user inputs numbers until they enter zero. We want to calculate the sum of all these numbers and count how many numbers were entered:
 
 ```java
 int sum = 0, num = 0, n;
